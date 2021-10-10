@@ -11,5 +11,6 @@ I'm currently learning
 ![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)</br>
 ![PowerBI](https://img.shields.io/badge/PowerBI-007396?style=for-the-badge&logo=PowerBI&logoColor=white&labelColor=101010)</br>
 
+<!--se obtuvieron de la pagina https://shields.io-->
 ## Contact me:
 
